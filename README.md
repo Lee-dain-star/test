@@ -21,7 +21,7 @@
 1. 파이썬 기본 문법 
 
 2. 논문 때 썼던 방법 
-- k-means Clustering, Tf-idf, Word Embedding, Tokenizer 등
+- k-means Clustering, Tf-idf, Word Embedding, Tokenizer, PCA, T-SNE 등
 
 3. 머신러닝 관련
 - 기계학습 과정, overfitting 방지 방법, Optimizer, Regularization, Data Augmentation, loss function등
