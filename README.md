@@ -29,4 +29,4 @@
 5. NLP 모델 관련: Word2Vec, Sec2Sec, Attention, Bert, GPT(공부 필요) 등
 
 
---- 
+
