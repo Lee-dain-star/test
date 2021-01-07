@@ -20,13 +20,20 @@
 
 1. 파이썬 기본 문법 
 
-2. 논문 때 썼던 방법: k-means Clustering, Tf-idf, Word Embedding, Tokenizer 등
+2. 논문 때 썼던 방법 
+- k-means Clustering, Tf-idf, Word Embedding, Tokenizer 등
 
-3. 머신러닝 관련: 기계학습 과정, overfitting 방지 방법, Optimizer, Regularization, Data Augmentation, loss function등
+3. 머신러닝 관련
+- 기계학습 과정, overfitting 방지 방법, Optimizer, Regularization, Data Augmentation, loss function등
 
-4. 딥러닝 모델 관련: CNN, RNN, LSTM, BiLSTM, GAN, Dropout, Batch Nomalization, Dense 등
+4. NLP 관련
+- Pre-Processing, Padding, Tokenizer, one-hot encoding, 벡터유사도, n-gram, 
 
-5. NLP 모델 관련: Word2Vec, Sec2Sec, Attention, Bert, GPT(공부 필요) 등
+4. 딥러닝 모델 관련
+- CNN, RNN, LSTM, GRU, BiLSTM, GAN, Dropout, Batch Nomalization, Dense 등
+
+5. NLP 모델 관련
+- Word2Vec, Sec2Sec, Glove, FastText, Attention, Transformer, ELMo, Bert, GPT-2(공부 필요) 등
 
 
 
